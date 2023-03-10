@@ -1,8 +1,8 @@
 public class Hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.print("Hello guys");
+		System.out.println("Hello guys");
+		System.out.println("This line is being added from eclipse");
 	}
 
 }
